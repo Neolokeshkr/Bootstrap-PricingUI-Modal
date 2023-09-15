@@ -1,0 +1,15 @@
+{
+  "name": "npm-implementation",
+  "version": "1.0.0",
+  "description": "Npm implementaion of the application which is being served using express and nodemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Loki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
